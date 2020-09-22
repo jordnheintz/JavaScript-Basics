@@ -59,6 +59,7 @@ let welcome = "Hello everyone, welcome to the Code Differently Shop.”
 #### String Methods
 
 Strings also come with methods. All string methods return a new value. They do not change the original variable. I will list string methods below that we will use for some practice.
+
 <img width="584" alt="Screen Shot 2020-09-10 at 11 25 09 AM" src="https://user-images.githubusercontent.com/54545904/92753899-5364ad80-f358-11ea-83ef-d4ed98cc1b2d.png">
 
 ### Comparison and Logical Operators
@@ -66,9 +67,11 @@ Strings also come with methods. All string methods return a new value. They do n
 Comparison and Logical operators are used to test for true or false.
 
 **Comparison Operators**
+
 <img width="727" alt="Screen Shot 2020-09-10 at 1 51 23 PM" src="https://user-images.githubusercontent.com/54545904/92775899-c6781f00-f36c-11ea-8f7b-fed7f9e8c353.png">
 
 **Logical Operators**
+
 <img width="725" alt="Screen Shot 2020-09-10 at 1 51 03 PM" src="https://user-images.githubusercontent.com/54545904/92775887-c2e49800-f36c-11ea-80c6-dcd4cefbc246.png">
 
 ### Conditional Statements
