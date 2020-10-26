@@ -62,7 +62,7 @@
 2. Stage, commit, and push up your changes. Let Git be on your team.
 
 
-3. Create a series of JS statements that asks a user what their favorite color is out of 3 different colors (Give the user 3 colors to choose from.). Based on their color choice, write conditional statements that print a message to the console. 
+3. Create a series of JS statements that asks a user what their favorite color is out of 3 different colors (Give the user 3 colors to choose from). Based on their color choice, write conditional statements that print a message to the console. 
 
     Example below:
 
