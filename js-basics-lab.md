@@ -1,7 +1,7 @@
-<img  src="../../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px;">
+<img  src="../assets/code-diff-logo.png" alt="Code Differently Logo" style="height:100px; width:300px; padding-bottom: 2em;">
 
 
-# JavaScript Basics Drill
+# JavaScript Basics Lab
 
 
 ## The Set-Up
@@ -100,7 +100,6 @@ Write a series of JS statements that takes in a user's input of a number between
 
 - Stage, commit, and push up your changes. Let Git be on your team.
 
-
 #### Exercise Four
 
 Write a series of JS statements that prompt a user for their name, rate of pay, and hours worked per week. The program needs to compute the total pay for the employee. If the hours worked are greater than 40, use 1.5 for the overtime rate. Print the result to the console in a sentence. 
@@ -109,4 +108,3 @@ Write a series of JS statements that prompt a user for their name, rate of pay, 
 
 
 Stage, commit, and push up your changes. Let Git be on your team.
-
