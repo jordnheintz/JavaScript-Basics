@@ -1,3 +1,7 @@
+![code differently](https://user-images.githubusercontent.com/54545904/91590200-f82ec600-e928-11ea-9433-eea450388abf.png)
+
+<br>
+
 # Dev Shop Sprint Planning Meeting
 
 Sprint planning meetings are to be held on the first day of each sprint.

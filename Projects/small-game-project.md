@@ -46,7 +46,7 @@ Choose **ONE** of the following games to code:
 
 - BlackJack
 
-    <img src="screenshot8.png">
+    <img src="../assets/screenshot8.png">
 
 
 <br>
