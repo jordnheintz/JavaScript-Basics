@@ -120,4 +120,4 @@ if (answer <= 12) {
 
 ## Next Steps
 
-Now that you are familiar with the basics of JavaScript, head on over to the [Lab](../JS%20Basics/js-basics-drill.md) to practice these new skills. Please use this lesson as a reference point if you find yourself having trouble.
+Now that you are familiar with the basics of JavaScript, head on over to the [Lab](../JS%20Basics/js-basics-lab.md) to practice these new skills. Please use this lesson as a reference point if you find yourself having trouble.
