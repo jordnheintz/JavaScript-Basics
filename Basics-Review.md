@@ -34,6 +34,15 @@ A variable is where you store information ranging from strings to numbers and ma
 - Declare a first and last name variable with let/const.
 - Declare a birthday variable.
 
+Declaring variables with `let` and `const` help avoid errors in our code.
+
+- `let`: works the similarly to the `var` keyword but it does not allow the same variable to be declared and reassigned a value. This helps protect your variables and their values.
+
+- `const`: short for constant, which means the value of the variable will not change. It will remain *constant*.
+
+  - Protects the variable's value from being overwritten.
+
+
 ### Strings
 
 A JavaScript string stores a series of characters like `"John Doe"`. A string can be any text inside double or single quotes but they have to match. Also to note that String indexes are zero-based: So the first character is in position 0, the second in 1, and so on.
