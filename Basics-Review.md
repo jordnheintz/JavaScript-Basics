@@ -34,9 +34,15 @@ A variable is where you store information ranging from strings to numbers and ma
 - Declare a first and last name variable with let/const.
 - Declare a birthday variable.
 
-Declaring variables with `let` and `const` help avoid errors in our code.
+Declaring variables with `let` and `const` help avoid errors an find errors in our code.
 
 - `let`: works the similarly to the `var` keyword but it does not allow the same variable to be declared and reassigned a value. This helps protect your variables and their values.
+
+  - `let` keyword also has **Block Scope**. This means that variables declared inside of a block of code, cannot be accessed outside the block.
+
+  - When defining variables with `let` in HTML, the variables do not belong to the `window` object.
+
+    - Defining variables with `var` in HTML, the variables belong to the `window` object.  
 
 - `const`: short for constant, which means the value of the variable will not change. It will remain *constant*.
 
