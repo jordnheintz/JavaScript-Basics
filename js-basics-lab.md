@@ -8,11 +8,11 @@
 
 - Fork and clone this repository locally and in Visual Studio Code
 
-- Create an HTML file called index.html
+- Create an HTML file called `index.html`
 
     - HTML document must have the correct global structure.
 
-    - Add a <main> element and nest a <p> element inside of it
+    - Add a `<main>` element and nest a `<p>` element inside of it
 
 - Create JavaScript files for each exercise below. Link the JS files to the HTML document.
 
