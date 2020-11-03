@@ -27,24 +27,24 @@
 Using a series of JS statements, write a program that takes the user's name. Ask a few  questions to get information from the user. After the user has answered all of the questions, print a summary of those answers to the console. Here is an example below of what an exchange may be. 
 
 
-    `web page`:Hi, What is your name?
+`web page`:Hi, What is your name?
 
-    `user input`: Codey 
+`user input`: Codey 
 
-    `web page`: Hi, Codey! What do you do?
+`web page`: Hi, Codey! What do you do?
 
-    `user input`: Developer
+`user input`: Developer
 
-    `web page`: "Interesting! Do you love being a Developer?"
+`web page`: "Interesting! Do you love being a Developer?"
 
-    `user input`: Yes
+`user input`: Yes
 
-    `web page`: Codey is a Developer and loves it!
+`web page`: Codey is a Developer and loves it!
 
 
-    > We asked for the user's name and job. Then printed a sentence including the name of the user and their job. 
+> We asked for the user's name and job. Then printed a sentence including the name of the user and their job. 
 
-    Your statements must do the following:
+Your statements must do the following:
 
 - Ask a user their name and accept user input
 
@@ -65,21 +65,21 @@ Using a series of JS statements, write a program that takes the user's name. Ask
 
 Create a series of JS statements that asks a user what their favorite color is out of 3 different colors (Give the user 3 colors to choose from.). Based on their color choice, write conditional statements that print a message to the console. You will need to declare an `array` for this exercise. Click [here](https://www.w3schools.com/js/js_arrays.asp) to declare an `array`.
 
-    Example below:
+Example below:
 
-    `web page`: Hello! What is your name??
+`web page`: Hello! What is your name??
 
-    `user input`: Liyah 
+`user input`: Liyah 
 
-    `web page`: Choose a color. Red, Green, or Yellow
+`web page`: Choose a color. Red, Green, or Yellow
 
-    `user input`: Green 
+`user input`: Green 
 
-    `web page`: You chose GREEN
+`web page`: You chose GREEN
 
-    `web page`: "Liyah chose the color GREEN."
+`web page`: "Liyah chose the color GREEN."
 
-    Display the sentence(s) as a `<p>` inside the `<main>` element.
+Display the sentence(s) as a `<p>` inside the `<main>` element.
 
 4. Stage, commit, and push up your changes. Let Git be on your team.
 
