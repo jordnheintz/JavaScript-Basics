@@ -121,15 +121,14 @@ if (hour <= 18) {
 **Example of `else if`**
 
 ```js
-const drinkingAge = 21;
-const answer = prompt("What is your age?");
+const answer = prompt("What is your dev age?");
 
-if (answer <= 12) {
-  console.log("A child cannot drink");
-} else if (answer <= 20) {
-  console.log("A teenager cannot drink");
+if (answer <= 2) {
+  console.log("club code likes experienced devs");
+} else if (answer <= 3) {
+  console.log("welcome to club code junior dev!");
 } else {
-  console.log("You’re an adult, enjoy!");
+  console.log("You’re a senior dev, the VIP computer is ready for you!");
 }
 ```
 
