@@ -18,3 +18,20 @@ const colorChoice = prompt(`${nameTwo}, choose a color: ${colors}`);
 const colorRespone = alert(`You chose ${colorChoice}`);
 const colorBroadcast = `<p>${nameTwo} chose ${colorChoice}!!!</p>`;
 document.querySelector(`main`).innerHTML = colorBroadcast;
+
+//Challenge 3
+const catWeight = prompt("Hi! How many pounds does your cat weigh?")
+
+if (catWeight < 5){
+    alert("Tiny!");
+} else if (catWeight < 10){
+    alert("Small");
+} else if (catWeight < 15){
+    alert("Medium");
+} else if (catWeight < 20){
+    alert("Large");
+} else if (catWeight = 20){
+    alert("Huge!");
+}
+
+//Challenge 4
