@@ -35,3 +35,8 @@ if (catWeight < 5){
 }
 
 //Challenge 4
+
+const nameThree = prompt("What is your name?");
+const rateOfPay = prompt(`Hi, ${nameThree}! What is your rate of pay?`);
+const hoursWorked = prompt("How many hours do you work?");
+console.log(`${nameThree} worked a total of ${hoursWorked} hours recieving a pay of $${hoursWorked * rateOfPay}`);
